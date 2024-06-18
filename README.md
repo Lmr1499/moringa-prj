@@ -4,7 +4,7 @@ Welcome to my Hobby / Skills Page! This is a simple webpage where I showcase a b
 
 ## Preview
 
-![My Hobby / Skills Page Preview](/Option1.png)
+![My Hobby / Skills Page Preview](/Option1..png)
 
 ## About Me ℹ️
 
